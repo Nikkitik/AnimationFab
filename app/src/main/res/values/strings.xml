@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="menu_drugs_drops">Капли</string>
+    <string name="menu_drugs_injection">Инъекция</string>
+    <string name="menu_drugs_oinment">Мазь</string>
+    <string name="menu_drugs_spray">Спрай</string>
+    <string name="menu_drugs_syrup">Сироп</string>
+</resources>

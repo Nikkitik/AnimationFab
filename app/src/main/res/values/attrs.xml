@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FabMenu">
+        <!-- Compulsory attributes -->
+        <attr name="fab_menu" format="reference" />
+        <attr name="fab_menu_offset" format="dimension" />
+        <attr name="fab_background_tint" format="color|reference" />
+
+        <!-- Optional attributes -->
+        <attr name="fab_menu_background_tint" format="color|reference" />
+        <attr name="layout_margin_menu" format="dimension" />
+        <attr name="menu_drawable" format="reference" />
+        <attr name="touch_guard" format="boolean" />
+        <attr name="touch_guard_drawable" format="color|reference" />
+    </declare-styleable>
+
+</resources>

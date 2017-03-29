@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="offset">169dp</dimen>
+    <dimen name="offset_animation">21dp</dimen>
+    <dimen name="margin_animation">33dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="no_offset">0dp</dimen>
+</resources>

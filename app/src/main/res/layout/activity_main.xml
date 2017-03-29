@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nromantsov.myapplication.MainActivity">
+
+    <com.example.nromantsov.myapplication.FabMenu
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fab_menu="@menu/menu_fab"
+        app:fab_menu_offset="@dimen/offset"
+        app:layout_margin_menu="@dimen/fab_margin"
+        app:touch_guard="true"
+        app:touch_guard_drawable="@color/touch_guard"
+        app:fab_background_tint="@color/default_color" />
+</android.support.constraint.ConstraintLayout>
